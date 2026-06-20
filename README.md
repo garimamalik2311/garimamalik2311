@@ -11,7 +11,7 @@
 
 <br/>
 
-### `L1 · ORGANIZATION` — About
+### `ABOUT ME` 
 
 - 🎓 B.Tech, Electronics &amp; Communication Engineering (AI Specialization) — **IGDTUW**, GPA `9.22/10`
 - 🧠 Building agents with **persistent memory** — frontends that stream a model's thinking, panels that show what an agent remembers and why
@@ -21,7 +21,7 @@
 
 <br/>
 
-### `L2 · TEAM` — Stack
+### `L2 · TECH STACK` 
 
 <div align="center">
 
