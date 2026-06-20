@@ -21,7 +21,7 @@
 
 <br/>
 
-### `L2 · TECH STACK` 
+### `TECH STACK` 
 
 <div align="center">
 
@@ -40,7 +40,7 @@
 
 <br/>
 
-### `L3 · ROLE` — Build Log
+### `ROLE` — Build Log
 
 | Project | What it does | Status |
 |---|---|---|
